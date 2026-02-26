@@ -2,7 +2,7 @@
 
 **Mapping where humanity wants to go.**
 
-TAOTF is an LLM-assisted classification pipeline and API for structuring human wishes into aspiration signals. It captures *preferred futures* from handwritten wishes collected at Omnia Experience Centers (first deployment: Sohar, Oman; expanding to more cities).
+TAOTF is an LLM-assisted classification pipeline and API for structuring human wishes into aspiration signals. It captures *preferred futures* from wishes collected at Omnia Experience Centers.
 
 *By [Vivid Studio](https://vividstudio.me)*
 
