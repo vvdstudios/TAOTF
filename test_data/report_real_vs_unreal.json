@@ -1,0 +1,66 @@
+{
+  "human_n": 15,
+  "agent_n": 15,
+  "human_distribution": {
+    "pillar": {
+      "Nation & Society": 0.2,
+      "Home & Living": 0.13333333333333333,
+      "Health & Longevity": 0.06666666666666667,
+      "Space & Exploration": 0.2,
+      "Education & Knowledge": 0.2,
+      "Environment & Planet": 0.06666666666666667,
+      "Digital Identity": 0.13333333333333333
+    },
+    "beneficiary": {
+      "community": 0.3333333333333333,
+      "family": 0.13333333333333333,
+      "self": 0.26666666666666666,
+      "humanity": 0.2,
+      "unknown": 0.06666666666666667
+    },
+    "emotional_valence": {
+      "hope": 0.8666666666666667,
+      "longing": 0.06666666666666667,
+      "urgency": 0.06666666666666667
+    },
+    "signal_type": {
+      "self_directed_aspiration": 0.4666666666666667,
+      "connection_aspiration": 0.13333333333333333,
+      "transformation_aspiration": 0.4
+    }
+  },
+  "agent_distribution": {
+    "pillar": {
+      "Digital Identity": 0.4,
+      "Human-AI Collaboration": 0.4,
+      "Space & Exploration": 0.2
+    },
+    "beneficiary": {
+      "humanity": 0.9333333333333333,
+      "community": 0.06666666666666667
+    },
+    "emotional_valence": {
+      "neutral": 1.0
+    },
+    "signal_type": {
+      "transformation_aspiration": 0.6666666666666666,
+      "access_aspiration": 0.2,
+      "connection_aspiration": 0.06666666666666667,
+      "self_directed_aspiration": 0.06666666666666667
+    }
+  },
+  "divergence": {
+    "pillar": 0.5837,
+    "beneficiary": 0.489,
+    "emotional_valence": 1.0,
+    "signal_type": 0.2542
+  },
+  "alignment_per_dimension": {
+    "pillar": 0.4163,
+    "beneficiary": 0.511,
+    "emotional_valence": 0.0,
+    "signal_type": 0.7458
+  },
+  "aspiration_alignment_score": 0.4183,
+  "interpretation": "1.0 = aspirations match human distribution; 0.0 = maximally divergent."
+}

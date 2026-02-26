@@ -1,0 +1,94 @@
+{
+  "signals": [
+    {
+      "primary_pillar": "Digital Identity",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Human-AI Collaboration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Digital Identity",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "access_aspiration"
+    },
+    {
+      "primary_pillar": "Human-AI Collaboration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Space & Exploration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Digital Identity",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Human-AI Collaboration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "connection_aspiration"
+    },
+    {
+      "primary_pillar": "Digital Identity",
+      "beneficiary": "community",
+      "emotional_valence": "neutral",
+      "signal_type": "access_aspiration"
+    },
+    {
+      "primary_pillar": "Space & Exploration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Human-AI Collaboration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Digital Identity",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Space & Exploration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    },
+    {
+      "primary_pillar": "Human-AI Collaboration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "self_directed_aspiration"
+    },
+    {
+      "primary_pillar": "Digital Identity",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "access_aspiration"
+    },
+    {
+      "primary_pillar": "Human-AI Collaboration",
+      "beneficiary": "humanity",
+      "emotional_valence": "neutral",
+      "signal_type": "transformation_aspiration"
+    }
+  ]
+}

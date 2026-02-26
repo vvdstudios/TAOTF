@@ -1,0 +1,24 @@
+# TAOTF — ignore list for open source repo
+
+.env
+*.pyc
+__pycache__/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Private data — raw wishes are NOT open source
+wishes.xlsx
+taotf_signals.xlsx
+taotf_contributions.jsonl
+*.backup_*.jsonl
+
+# IDE / OS / tools
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.claude/
+.pytest_cache/
