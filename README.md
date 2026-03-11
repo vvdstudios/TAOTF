@@ -175,29 +175,7 @@ Dataset license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see 
 
 ---
 
-## Citation
-
-If you use TAOTF data or code in research:
-
-```text
-TAOTF — The Archive of the Future. Omnia / TAOTF Project. Version 2026.1.
-https://github.com/[your-org]/taotf
-```
-
----
-
-## Contributing
-
-We welcome contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute code, data, or documentation. By contributing, you agree to the same data governance principles (anonymization, no resale).
-
----
-
-## What's missing (roadmap)
-
-See [docs/OPEN_SOURCE_CHECKLIST.md](docs/OPEN_SOURCE_CHECKLIST.md) for a checklist and roadmap (CI, security, dataset releases, etc.).
-
----
 
 **Humans are not only consumers of the future. They are co-authors of it.**
 
-**By [Vivid Studio](https://vividstudio.me)** · [Examples](docs/EXAMPLES.md)
+**By [Vivid Studio](https://vividstudio.me)**
