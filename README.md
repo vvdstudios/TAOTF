@@ -171,7 +171,6 @@ See [docs/AGENT_VERIFICATION.md](docs/AGENT_VERIFICATION.md).
 - **Zero data resale** — data is for research and the archive.
 - **Long-term archival commitment** — structured for longitudinal civilization tracking.
 
-Dataset license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [docs/DATASET.md](docs/DATASET.md)). Code: [MIT](LICENSE).
 
 ---
 
